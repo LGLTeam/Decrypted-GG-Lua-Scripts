@@ -1,0 +1,52 @@
+
+gg.clearResults()
+    gg.setRanges(gg.REGION_C_ALLOC)
+    gg.searchNumber("909391408;808923191::8",gg.TYPE_DWORD)
+    gg.getResults(999)
+    gg.editAll("1089886885",gg.TYPE_DWORD)
+    gg.clearResults()
+    gg.setRanges(gg.REGION_C_ALLOC)
+    gg.searchNumber("909391408",gg.TYPE_DWORD)
+    gg.getResults(999)
+    gg.editAll("1089886885",gg.TYPE_DWORD)
+gg.clearResults()
+    gg.setRanges(4)
+    gg.searchNumber("2062", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+    gg.searchNumber("2062", gg.TYPE_DWORD, false, gg.SIGN_EQUAL, 0, -1)
+    jg = gg.getResults(10000)
+    sl = gg.getResultCount()
+    for _FORV_3_ = tonumber("1"), sl do
+      dzy = jg[_FORV_3_].address
+      gg.addListItems({
+        [1] = {
+          address = dzy,
+          flags = gg.TYPE_DWORD,
+          freeze = true,
+          value = tonumber("0")
+        }
+      })
+      end
+gg.clearResults()
+gg.setRanges(gg.REGION_C_ALLOC)
+gg.searchNumber("2.2958874e-41;16384D;16384D;16384D;16384D;16384D::24",gg.TYPE_FLOAT,false,gg.SIGN_EQUAL,0,-1)
+if gg.getResultCount() == 0 then
+gg.toast("Anti-seal opening failed ")
+else
+gg.searchNumber("2.2958874e-41", gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1)
+n=gg.getResultCount()
+jz=gg.getResults(n)
+for i=1, n do
+gg.addListItems({[1] = {address =jz[i].address-252,flags = 4,freeze = true,value = 4328}})
+gg.addListItems({[1] = {address =jz[i].address+48,flags = 4,freeze = true,value = 432}})
+gg.addListItems({[1] = {address =jz[i].address+100,flags = 4,freeze = true,value = 4451}})
+end
+gg.toast("Anti-seal opened successfully")
+gg.clearResults() 
+gg.setRanges(gg.REGION_ANONYMOUS) 
+gg.searchNumber('1.5584387e28', 
+gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1) gg.searchNumber('1.5584387e28', 
+gg.TYPE_FLOAT, false, gg.SIGN_EQUAL, 0, -1) 
+gg.getResults(100) gg.editAll('0', 
+gg.TYPE_FLOAT) 
+gg.toast('The settlement anti-tracing was successfully opened') 
+end

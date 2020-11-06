@@ -1,0 +1,975 @@
+local L0_20
+L0_20 = "Encrypt Tool By STM TEAM  { Version III }"
+function S()
+  local L0_21, L1_22, L2_23, L3_24, L4_25, L5_26, L6_27, L7_28, L8_29, L9_30, L10_31, L11_32, L12_33, L13_34, L14_35, L15_36, L16_37, L17_38, L18_39, L19_40, L20_41, L21_42, L22_43, L23_44, L24_45, L25_46, L26_47, L27_48, L28_49, L29_50, L30_51, L31_52, L32_53, L33_54, L34_55, L35_56, L36_57, L37_58, L38_59, L39_60
+  function L10_31()
+    local L0_61, L1_62, L2_63, L3_64, L4_65, L5_66, L6_67, L7_68, L8_69, L9_70, L10_71, L11_72, L12_73, L13_74, L14_75, L15_76, L16_77, L17_78, L18_79, L19_80, L20_81, L21_82, L22_83
+  end
+  
+  function L10_31()
+    local L0_84, L1_85, L2_86, L3_87, L4_88, L5_89, L6_90, L7_91, L8_92, L9_93, L10_94, L11_95, L12_96, L13_97, L14_98, L15_99, L16_100, L17_101, L18_102, L19_103, L20_104, L21_105, L22_106
+  end
+  
+  function L20_41(A0_107)
+    for SABIN1_4_ = 0, 1, 0 do
+      if nil ~= nil then
+        ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+        if _ ~= nil then
+          _ = _(-nil * nil)()
+          _ = nil
+        end
+        _ = _
+        if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+        end
+        if nil == nil then
+        end
+      end
+      SABIN1_4_[""] = T
+      k[1] = 1
+    end
+    for SABIN1_6_ = 0, 1, 0 do
+      if nil ~= nil then
+        ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+        if _ ~= nil then
+          _ = _(-nil * nil)()
+          _ = nil
+        end
+        _ = _
+        if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+        end
+        if nil == nil then
+        end
+      end
+      SABIN1_6_[""] = T
+      k[1] = 1
+    end
+    for SABIN1_6_ = 0, 1, 0 do
+      if nil ~= nil then
+        ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+        if _ ~= nil then
+          _ = _(-nil * nil)()
+          _ = nil
+        end
+        _ = _
+        if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+        end
+        if nil == nil then
+        end
+      end
+      SABIN1_6_[""] = T
+      k[1] = 1
+    end
+    return (A0_107:gsub("%x%x", function(A0_108)
+      local L1_109, L2_110, L3_111
+      L1_109 = 0
+      L2_110 = 1
+      for SABIN1_4_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_4_[""] = T
+        k[1] = 1
+      end
+      L1_109 = 0
+      L2_110 = 1
+      for SABIN1_4_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_4_[""] = T
+        k[1] = 1
+      end
+      L1_109 = 0
+      L2_110 = 1
+      for SABIN1_4_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_4_[""] = T
+        k[1] = 1
+      end
+      L1_109 = 0
+      L2_110 = 1
+      for SABIN1_4_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_4_[""] = T
+        k[1] = 1
+      end
+      L1_109 = Sabin1_
+      L1_109 = L1_109 % 274877906944
+      L2_110 = Sabin1_
+      L2_110 = L2_110 - L1_109
+      L2_110 = L2_110 / 274877906944
+      L3_111 = L2_110 % 128
+      A0_108 = tonumber(A0_108, 16)
+      Sabin1_ = L1_109 * Sabin2_ + L2_110 + A0_108 + (A0_108 + (L2_110 - L3_111) / 128) * (2 * L3_111 + 1) % 256
+      for SABIN1_8_ = 1, 0 do
+        SABIN1_8_((true | false) - true)
+      end
+      for SABIN1_8_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_8_[""] = T
+        k[1] = 1
+      end
+      for SABIN1_8_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_8_[""] = T
+        k[1] = 1
+      end
+      for SABIN1_8_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_8_[""] = T
+        k[1] = 1
+      end
+      for SABIN1_8_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_8_[""] = T
+        k[1] = 1
+      end
+      for SABIN1_8_ = 0, 1, 0 do
+        if nil ~= nil then
+          ;(-nil)((-nil)[nil] | nil | nil)(-nil)((-nil)[nil] | nil | nil)
+          if _ ~= nil then
+            _ = _(-nil * nil)()
+            _ = nil
+          end
+          _ = _
+          if (_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil_Lnil)(((_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil)(_Lnil)(_Lnil():_L(_Lnil)(_Lnil * -1) .. _Lnil))) ~= nil then
+          end
+          if nil == nil then
+          end
+        end
+        SABIN1_8_[""] = T
+        k[1] = 1
+      end
+      return string.char((A0_108 + (L2_110 - L3_111) / 128) * (2 * L3_111 + 1) % 256)
+    end
+    ))
+  end
+  
+  function L28_49(A0_112)
+    if L21_42 ~= A0_112 then
+      L21_42 = A0_112
+      if #gg.getRangesList(L21_42) == 0 then
+        os.exit()
+      else
+        L19_40 = gg.getRangesList(L21_42)[1].start
+        L20_41 = gg.getRangesList(L21_42)[#gg.getRangesList(L21_42)][STM_STM_STM("656e64")]
+      end
+    end
+  end
+  
+  function L28_49(A0_113)
+    local L1_114
+    L1_114 = {}
+    A0_113:gsub(STM_STM_STM("25532553"), function(A0_115)
+      L1_114[#L1_114 + 1] = A0_115
+      return STM_STM_STM("")
+    end
+    )
+    return L1_114
+  end
+  
+  function L28_49(A0_116)
+    if #hex2tbl(A0_116) == 0 then
+      return
+    end
+    if #hex2tbl(A0_116) > L23_44 then
+    end
+    for SABIN1_8_ = 1, L23_44 do
+      if SABIN1_8_ ~= 1 then
+      end
+      if hex2tbl(A0_116)[SABIN1_8_] == STM_STM_STM("3f3f") or hex2tbl(A0_116)[SABIN1_8_] == STM_STM_STM("2a2a") then
+      end
+    end
+    gg.searchNumber(((STM_STM_STM("") .. STM_STM_STM("3b")) .. STM_STM_STM("307e7e30") .. STM_STM_STM("72")) .. STM_STM_STM("3a3a") .. L23_44, 1, false, gg.SIGN_EQUAL, L19_40, L20_41)
+    if #hex2tbl(A0_116) > L23_44 then
+      for SABIN1_8_ = L23_44 + 1, #hex2tbl(A0_116) do
+        if hex2tbl(A0_116)[SABIN1_8_] == STM_STM_STM("3f3f") or hex2tbl(A0_116)[SABIN1_8_] == STM_STM_STM("2a2a") then
+        elseif (STM_STM_STM("3078") .. 256) + 0 > 127 then
+        end
+        hex2tbl(A0_116)[SABIN1_8_] = (STM_STM_STM("3078") .. 256) + 0 - 256
+      end
+    end
+    L24_45 = {}
+    while not (gg.getResultCount() <= 0) and not (#gg.getResults(8) < 0 + L23_44) do
+      for SABIN1_14_, SABIN1_15_ in ipairs((gg.getResults(8))) do
+        SABIN1_15_.address = SABIN1_15_.address + noffset
+      end
+      gg.loadResults((gg.getResults(8)))
+      while #gg.getResults(8) > 0 do
+        if #hex2tbl(A0_116) > L23_44 then
+          for SABIN1_17_ = L23_44 + 1, #hex2tbl(A0_116) do
+          end
+          for SABIN1_17_ = L23_44 + 1, #hex2tbl(A0_116) do
+            if hex2tbl(A0_116)[SABIN1_17_] ~= 256 and gg.getValues({
+              [SABIN1_17_ - L23_44] = {
+                address = gg.getResults(8)[1 + 0].address - 1 + SABIN1_17_,
+                flags = 1,
+                value = 0
+              }
+            })[SABIN1_17_ - L23_44].value ~= hex2tbl(A0_116)[SABIN1_17_] then
+              break
+            end
+          end
+        end
+        if false then
+          L24_45[0 + 1] = gg.getResults(8)[1 + 0].address - 1
+        else
+          for SABIN1_17_ = 1, L23_44 do
+          end
+          gg.removeResults({
+            [SABIN1_17_] = gg.getResults(8)[SABIN1_17_ + 0]
+          })
+        end
+      end
+    end
+  end
+  
+  function L28_49(A0_117)
+    L22_43 = L22_43 + 1
+    if L25_46 ~= nil then
+      for SABIN1_6_, SABIN1_7_ in ipairs((hex2tbl(A0_117))) do
+        if SABIN1_7_ ~= STM_STM_STM("3f3f") and SABIN1_7_ ~= STM_STM_STM("2a2a") and SABIN1_7_ == hex2tbl(L25_46)[SABIN1_6_] then
+          hex2tbl(A0_117)[SABIN1_6_] = STM_STM_STM("2a2a")
+        end
+      end
+      L25_46 = nil
+    end
+    for SABIN1_8_, SABIN1_9_ in ipairs(L24_45) do
+      for SABIN1_13_, SABIN1_14_ in ipairs((hex2tbl(A0_117))) do
+        if SABIN1_14_ ~= STM_STM_STM("3f3f") and SABIN1_14_ ~= STM_STM_STM("2a2a") then
+        end
+      end
+    end
+    if 0 + 1 ~= 0 then
+      gg.setValues({
+        [0 + 1] = {
+          [STM_STM_STM("61646472652369")] = SABIN1_9_ + SABIN1_13_,
+          [STM_STM_STM("76616c7565")] = SABIN1_14_ .. STM_STM_STM("72"),
+          [STM_STM_STM("666c616773")] = 1
+        }
+      })
+    end
+    L26_47 = true
+  end
+  
+  function L28_49()
+    menu = gg.choice({
+      STM_STM_STM("f09f87a8f025557b2030eb9c65f2481620fb8d94c719b2134212311d"),
+      STM_STM_STM("f09f91a42070adab2d9267bba0ab2da07027fed5e466b75af1"),
+      STM_STM_STM("e29da42050b54c4d0e67ce9fbc48a0a309354611a56eea"),
+      STM_STM_STM("f09f94a52070adab3b35cdc8a063e031fce744b22b"),
+      STM_STM_STM("f09f94ae2070adab3b6d11bb5f7e0dd75bfd934e01"),
+      STM_STM_STM("f09f9aa820841bb599a9e17a60700a44fdb5d31ae0"),
+      STM_STM_STM("e29b942063c716861cf1e04116e4")
+    }, nil, STM_STM_STM("4d415155492ec5f3206c6b2002f90f62200d676eae20ef1fd4c5e03398abcb3e8dee87eaa9f4bc1fd0e0aa752a5b099d7f9f6f9aa59870e83f0c"))
+    if menu == 1 then
+      col()
+    end
+    if menu == 2 then
+      personaje()
+    end
+    if menu == 3 then
+      corazon()
+    end
+    if menu == 4 then
+      mortal()
+    end
+    if menu == 5 then
+      visual()
+    end
+    if menu == 6 then
+      unban()
+    end
+    if menu == 7 then
+      exit()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    menucol = gg.choice({
+      ffantasma .. STM_STM_STM(""),
+      fpiedra .. STM_STM_STM(""),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4143544956d120acb181a0902de457c6e72760b02da9684f0914ec"))
+    if menucol == 1 then
+      fantasma()
+    end
+    if menucol == 2 then
+      piedra()
+    end
+    if menucol == 3 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if ffantasma == STM_STM_STM("f09f91bb20220379f4e755dde7") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 21358024
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107bebd7"))
+      ffantasma = STM_STM_STM("e29b9420467b2adc7cec9a38")
+    elseif ffantasma == STM_STM_STM("e29b9420467b2adc7cec9a38") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 21358024
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034462076a31fffd95f85172006b06077a4208722"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f70ab7248"))
+      ffantasma = STM_STM_STM("f09f91bb20220379f4e755dde7")
+    end
+  end
+  
+  function L28_49()
+    if fpiedra == STM_STM_STM("f09f97bf20a1a192c260100e09e4216b") then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber(STM_STM_STM("4244723b3327c65307518ad7c9797268fa333509e549e615385105e9777112d57afbc235254db29b78123ed839091a8d3ee4f18deb08426d488a0a53d719c23ed7339ef7bf0952993ca1de4f4f4f722ead620f"), 1)
+      gg.getResults(16)
+      gg.editAll(STM_STM_STM("4339723b33f3eaf368dbfd004112e22ce26972385003766fd72d9eb72e1eed2be38f0ee5975c3a1d38c92a075d71fa7dc086421bc38d66ab871156d33d361d"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b4d2b"))
+      fpiedra = STM_STM_STM("e29b942053c93bba9faf5e151c896d")
+    elseif fpiedra == STM_STM_STM("e29b942053c93bba9faf5e151c896d") then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber(STM_STM_STM("4339723b33f3eaf368dbfd004112e22ce26972385003766fd72d9eb72e1eed2be38f0ee5975c3a1d38c92a075d71fa7dc086421bc38d66ab871156d33d361d666a540e8a132a9a690c0a85d970f08eded1028f"), 1)
+      gg.getResults(16)
+      gg.editAll(STM_STM_STM("4244723b3327c65307518ad7c97972"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fpiedra = STM_STM_STM("f09f97bf20a1a192c260100e09e4216b")
+    end
+  end
+  
+  function L28_49()
+    menupersonaje = gg.choice({
+      fantena .. STM_STM_STM(""),
+      fblancosp .. STM_STM_STM(""),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4143544956d120acb181a0902de457c6e72760b02da9684f0914ec"))
+    if menupersonaje == 1 then
+      antena()
+    end
+    if menupersonaje == 2 then
+      blancosp()
+    end
+    if menupersonaje == 3 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if fantena == STM_STM_STM("f09f93b6207b6a5b698a7d") then
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("352e39373652642d4b59253359513ea535"), 16)
+      gg.getResults(1000)
+      gg.editAll(STM_STM_STM("352e39373652642d4b592533597227cf2ec9"), 16)
+      gg.clearResults()
+      gg.searchNumber(STM_STM_STM("372e353533b8f83ac8f38cbbae332ae697"), 16)
+      gg.getResults(1000)
+      gg.editAll(STM_STM_STM("372e353533b8f83ac8f38cbbaed66dd0da82"), 16)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b61ee"))
+      fantena = STM_STM_STM("e29b942041fa7c87957e")
+    elseif fantena == STM_STM_STM("e29b942041fa7c87957e") then
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("3235302e31"), 16)
+      gg.getResults(1000)
+      gg.editAll(STM_STM_STM("31"), 16)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fantena = STM_STM_STM("f09f93b6207b6a5b698a7d")
+    end
+  end
+  
+  function L28_49()
+    if fblancosp == STM_STM_STM("e29aaaefb87560bdf6fed5442eafa056bc42be710d") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 10868400
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3031203030207910e083b4a0edc3a09aaa60aa32608100"))
+      gg.clearResults()
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 26385656
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("303020303020b262e0270b"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a05e422e1b28b0"))
+      fblancosp = STM_STM_STM("e29b94204d17698b70fcb8df1a34e1d6d715")
+    elseif fblancosp == STM_STM_STM("e29b94204d17698b70fcb8df1a34e1d6d715") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 10868400
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3730203443200214608fffa082d020d9909fa76c2063d1"))
+      gg.clearResults()
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 26385656
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("313020413920797ba0af3d"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fblancosp = STM_STM_STM("e29aaaefb87560bdf6fed5442eafa056bc42be710d")
+    end
+  end
+  
+  function L28_49()
+    menucorazon = gg.choice({
+      fbotiquin .. STM_STM_STM(""),
+      fbotiquinm .. STM_STM_STM(""),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4143544956d120acb181a0902de457c6e72760b02da9684f0914ec"))
+    if menucorazon == 1 then
+      botiquin()
+    end
+    if menucorazon == 2 then
+      botiquinm()
+    end
+    if menucorazon == 3 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if fbotiquin == STM_STM_STM("e29da4204317b6a90ea11ae01d7c57d085cc41") then
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("3735443b35a673143236999f50"), 16)
+      gg.refineNumber(STM_STM_STM("34"), 16)
+      gg.getResults(1)
+      gg.editAll(STM_STM_STM("33"), 16)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a05e31cc"))
+      fbotiquin = STM_STM_STM("e29b94204317b61b89ec54a082e0aff09d5c7e")
+    elseif fbotiquin == STM_STM_STM("e29b94204317b61b89ec54a082e0aff09d5c7e") then
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("3735443b35a6737b3236999fb0"), 16)
+      gg.refineNumber(STM_STM_STM("33"), 16)
+      gg.getResults(1)
+      gg.editAll(STM_STM_STM("34"), 16)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fbotiquin = STM_STM_STM("e29da4204317b6a90ea11ae01d7c57d085cc41")
+    end
+  end
+  
+  function L28_49()
+    if fbotiquinm == STM_STM_STM("f09f929e20f13f65733657e52010652a4e82cfcd5496") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 34822248
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0602d6820451fe0a1ca5f667e1fbdea"))
+      gg.clearResults()
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 10980752
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0602d6820451fe0a1ca5f667e1fbdea"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107ba6f6"))
+      fbotiquinm = STM_STM_STM("e29b94204317b61b89ec54a0cbe40ef69d4de20ca7")
+    elseif fbotiquinm == STM_STM_STM("e29b94204317b61b89ec54a0cbe40ef69d4de20ca7") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 34822248
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034422076a31fffe160c88820ba6f1f2883e03b7e"))
+      gg.clearResults()
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 10980752
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3730203443200214608fffa082d020d9909fa76c2063d1"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fbotiquinm = STM_STM_STM("f09f929e20f13f65733657e52010652a4e82cfcd5496")
+    end
+  end
+  
+  function L28_49()
+    menumortal = gg.choice({
+      flluvia .. STM_STM_STM(""),
+      fsemiaimbot .. STM_STM_STM(""),
+      STM_STM_STM("e29e95204d71e3e960f45baa4169a6946720fdeac2e024a999"),
+      STM_STM_STM("f09f9b8420f10365c999a61f094355b5a0a6470c7ef2"),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4143544956d120acb181a0902de457c6e72760b02da9684f0914ec"))
+    if menumortal == 1 then
+      lluvia()
+    end
+    if menumortal == 2 then
+      apuntado()
+    end
+    if menumortal == 3 then
+      lagsens()
+    end
+    if menumortal == 4 then
+      cargador()
+    end
+    if menumortal == 5 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if flluvia == STM_STM_STM("e298a0efb875609a4b2db0db5fb535ab6175008966") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 30667008
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3238203030200510a01f4f202991209171a00966e0adba"))
+      gg.clearResults()
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("3936723b30309a605030b693d0b0f66f90f07609303022d0d50fda2a7410027ef0b0f171b0906671988f5df1cfb24277efb01e8750906ee3b43036f953d24e6e729396"), 1)
+      gg.getResults(16)
+      gg.editAll(STM_STM_STM("3936723b30309a605030b693d0b0f66f90f07609303022d0d567da2a741036b3700fcedd10d0ce8df02f6aafcf90121350af5aa710b07ada9030922cf0f02d"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a05ef8e01b28b0"))
+      flluvia = STM_STM_STM("e29b942052b5c77070df365ee54fba6c786b")
+    elseif flluvia == STM_STM_STM("e29b942052b5c77070df365ee54fba6c786b") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 30667008
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3834203130203bf0e012d1a0cf4f60f010602a1060c1a1"))
+      gg.clearResults()
+      gg.setRanges(gg.REGION_ANONYMOUS)
+      gg.searchNumber(STM_STM_STM("3936723b30309a605030b693d0b0f66f90f07609303022d0d567da2a741036b3700fcedd10d0ce8df02f6aafcf90121350af5aa710b07ada9030922cf0f02deaeed676"), 1)
+      gg.getResults(16)
+      gg.editAll(STM_STM_STM("3936723b30309a605030b693d0b0f66f90f07609303022d0d50fda2a7410027ef0b0f171b0906671988f5df1cfb24277efb01e8750906ee3b43036f953d24e"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72d7c4"))
+      flluvia = STM_STM_STM("e298a0efb875609a4b2db0db5fb535ab6175008966")
+    end
+  end
+  
+  function L28_49()
+    if fsemiaimbot == STM_STM_STM("f09f94b420221b8d3fd9e0f56fdfde1c7f64a9") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 30665456
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3739203034205474a0d801"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b1cc4"))
+      fsemiaimbot = STM_STM_STM("e29b942046539e1b89df466f989a4ce1b4d5")
+    elseif fsemiaimbot == STM_STM_STM("e29b942046539e1b89df466f989a4ce1b4d5") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 30665456
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3630203030202f70e071cd"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fsemiaimbot = STM_STM_STM("f09f94b420221b8d3fd9e0f56fdfde1c7f64a9")
+    end
+  end
+  
+  function L28_49()
+    gg.setRanges(gg.REGION_C_DATA)
+    gg.searchNumber(STM_STM_STM("00333030"), 16)
+    gg.getResults(4)
+    gg.editAll(STM_STM_STM("313830"), 16)
+    gg.clearResults()
+    gg.setRanges(gg.REGION_CODE_APP)
+    name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+    noffset = 30706336
+    original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+    replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+    gg.clearResults()
+    name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+    noffset = 30699480
+    original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+    replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+    gg.clearResults()
+    gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a05ed6d78a0e2630981f"))
+  end
+  
+  function L28_49()
+    gg.setRanges(gg.REGION_ANONYMOUS)
+    gg.searchNumber(STM_STM_STM("36443b2e346b027c87c689d9cfaa662ed0"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3132"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2ec14872ca9f785d42c9f0aadaea4f8a73b013bc50ea993de1"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2ec1bf72ca9f09538ef1d096d2dab13a20b5f9de501abea56f"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3230443b2e30539b96f03aa57a46f091c55591831545597ed90efeeab1"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3335"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2ec17b72ca9f6d5dd1522f824df90f2a93b0d63510363eaed5"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2ec1485d734883de42f08e3a8ed778a0b8375881aa521e4d"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2e303772cad0dfc255b2f0292eb66733291acb15ac9eeac2cb"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3330443b2ec1ae72ca9f6d537a1a6f561e3d13bd735779b810f212b2f5"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3530"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("313030443b0e33464b5d8ff2437e5d70c9824a8c728b6d8a383061ed8249"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("313230"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("35443b2e33e30fea1b67c72a039fb453a670bdda026f"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3132"), 4)
+    gg.clearResults()
+    gg.searchNumber(STM_STM_STM("3530443b2e309507f6d0f7235ede70c1ce02d359366af2"), 16)
+    gg.getResults(100)
+    gg.editAll(STM_STM_STM("3635"), 4)
+    gg.clearResults()
+    gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b39d4"))
+  end
+  
+  function L28_49()
+    menuvisual = gg.choice({
+      fcielo .. STM_STM_STM(""),
+      STM_STM_STM("f09f8c8e20ac0f609067caedd1a097a3909d"),
+      STM_STM_STM("f09f93bd207b276f3c7a01fa20b749eaa2e40674"),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4143544956d120acb181a0902de457c6e72760b02da9684f0914ec"))
+    if menuvisual == 1 then
+      cielo()
+    end
+    if menuvisual == 2 then
+      mapa()
+    end
+    if menuvisual == 3 then
+      camara()
+    end
+    if menuvisual == 4 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if fcielo == STM_STM_STM("f09f8c8320f11ba6fce760f1b6a577f65a") then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber(STM_STM_STM("3041723b442762f37dc5858b593d057aee73ee79352dc627d8de12dddf2f858330ef827f7e10ea0d46902529a3c752aed6d39d"), 1)
+      gg.getResults(12)
+      gg.editAll(STM_STM_STM("3041723b442762f37dc5858b593d057a506fee795030a5ade830a6b4e21d7a04b0b072af46306ee323f00d77e77656"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b443f"))
+      fcielo = STM_STM_STM("e29b94204353af04d2df7e0f5d9315f3")
+    elseif fcielo == STM_STM_STM("e29b94204353af04d2df7e0f5d9315f3") then
+      gg.setRanges(gg.REGION_C_DATA)
+      gg.searchNumber(STM_STM_STM("3041723b442762f37dc5858b593d057a506fee795030a5ade830a6b4e21d7a04b0b072af46306ee323f00d77e776561909ebf9"), 1)
+      gg.getResults(12)
+      gg.editAll(STM_STM_STM("3041723b442762f37dc5858b593d057aee73ee79352dc627d8de12dddf2f858330ef827f7e10ea0d46902529a3c752"), 1)
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fcielo = STM_STM_STM("f09f8c8320f11ba6fce760f1b6a577f65a")
+    end
+  end
+  
+  function L28_49()
+    gg.setRanges(gg.REGION_CODE_APP)
+    name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+    noffset = 40229956
+    original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+    replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+    gg.clearResults()
+    gg.setRanges(gg.REGION_CODE_APP)
+    name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+    noffset = 19982168
+    original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+    replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+    gg.clearResults()
+    gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b44a6"))
+  end
+  
+  function L28_49()
+    gg.setRanges(gg.REGION_CODE_APP)
+    name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+    noffset = 32174332
+    original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+    replaced(STM_STM_STM("37302030302054c460e5441fddbde0e6d9a0d2a2601d73"))
+    gg.clearResults()
+    gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b6101"))
+  end
+  
+  function L28_49()
+    menuunban = gg.choice({
+      fid .. STM_STM_STM(""),
+      fserial .. STM_STM_STM(""),
+      fmeid .. STM_STM_STM(""),
+      fimei .. STM_STM_STM(""),
+      fmodelo .. STM_STM_STM(""),
+      fequipo .. STM_STM_STM(""),
+      STM_STM_STM("f09f87a8f025557b2087c47ea3f12c")
+    }, nil, STM_STM_STM("4c4942455215206467607e164414c3fb4220301bef77904b3b94"))
+    if menuunban == 1 then
+      id()
+    end
+    if menuunban == 2 then
+      serial()
+    end
+    if menuunban == 3 then
+      meid()
+    end
+    if menuunban == 4 then
+      imei()
+    end
+    if menuunban == 5 then
+      modelo()
+    end
+    if menuunban == 6 then
+      equipo()
+    end
+    if menuunban == 7 then
+      START()
+    end
+    XGCK = -1
+  end
+  
+  function L28_49()
+    if fid == STM_STM_STM("f09f93b320841bb569e6a306203a332a2a9ce3e23f356f4c53a5") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25234756
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fid = STM_STM_STM("e29b94204c538687897e29df5f94b5e1433fe67a43b97cbdd9")
+    elseif fid == STM_STM_STM("e29b94204c538687897e29df5f94b5e1433fe67a43b97cbdd9") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25234756
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fid = STM_STM_STM("f09f93b320841bb569e6a306203a332a2a9ce3e23f356f4c53a5")
+    end
+  end
+  
+  function L28_49()
+    if fserial == STM_STM_STM("f09f93b320841bb569e6a3062018700d3bcb44") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225268
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fserial = STM_STM_STM("e29b94204c538687897e29df6529b29ecc14")
+    elseif fserial == STM_STM_STM("e29b94204c538687897e29df6529b29ecc14") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225268
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fserial = STM_STM_STM("f09f93b320841bb569e6a3062018700d3bcb44")
+    end
+  end
+  
+  function L28_49()
+    if fmeid == STM_STM_STM("f09f93b320841bb569e6a30620c670e64c") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225812
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fmeid = STM_STM_STM("e29b94204c538687897e29dffb29795b")
+    elseif fmeid == STM_STM_STM("e29b94204c538687897e29dffb29795b") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225812
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fmeid = STM_STM_STM("f09f93b320841bb569e6a30620c670e64c")
+    end
+  end
+  
+  function L28_49()
+    if fimei == STM_STM_STM("f09f93b320841bb569e6a306203a582a3b") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225540
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fimei = STM_STM_STM("e29b94204c538687897e29df5fd1b59e")
+    elseif fimei == STM_STM_STM("e29b94204c538687897e29df5fd1b59e") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25225540
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fimei = STM_STM_STM("f09f93b320841bb569e6a306203a582a3b")
+    end
+  end
+  
+  function L28_49()
+    if fmodelo == STM_STM_STM("f09f93b320841bb569e6a30620c6d27baf44a5") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25232580
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fmodelo = STM_STM_STM("e29b94204c538687897e29dffbfb0402dbe9")
+    elseif fmodelo == STM_STM_STM("e29b94204c538687897e29dffbfb0402dbe9") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25232580
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fmodelo = STM_STM_STM("f09f93b320841bb569e6a30620c6d27baf44a5")
+    end
+  end
+  
+  function L28_49()
+    if fequipo == STM_STM_STM("f09f93b320841bb569e6a30620ae4c1a3b70a5") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25233124
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("3030203030207930e0270b5fe9e960d64ea0325aa07b24"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8590f025cf25b0b143318fce6538509bdbfd3052e8700f66d13c2f09e4b6a0107b619a"))
+      fequipo = STM_STM_STM("e29b94204c538687897e29dfc325c59e0fe9")
+    elseif fequipo == STM_STM_STM("e29b94204c538687897e29dfc325c59e0fe9") then
+      gg.setRanges(gg.REGION_CODE_APP)
+      name(STM_STM_STM("6c6962696c5217b050aa83c6"))
+      noffset = 25233124
+      original(STM_STM_STM("374620343520544d60637e6050ba6090479fd0d320cfaf"))
+      replaced(STM_STM_STM("46302034382076a31ffff9a01950204a10e018045ff302"))
+      gg.clearResults()
+      gg.toast(STM_STM_STM("f09f8593f025cf1bb023e81d70df53f08f47b3ddf0e288b9cf31ae87efbf58f96f70371050d50989cfff73d51f72c1dc"))
+      fequipo = STM_STM_STM("f09f93b320841bb569e6a30620ae4c1a3b70a5")
+    end
+  end
+  
+  function L27_48()
+    gg.toast(STM_STM_STM("f09f8597f025cf2fb0c1c58ad04b97b9d0adea7e20ef2358cacf69af5e30a94365b03bc952d0ad7d93905b669f2f526e78904f8a106f25972cd0cfc2eef06d0e62"))
+    print(STM_STM_STM("e29c8cefb875d0a3badb"))
+    print(STM_STM_STM("53435249509460d9b0cf39a0b4c9a3e12b729e3dc1d5"))
+    print(STM_STM_STM("5369c3a96eb4f301931fa376c702ec1c2f1df4e07cd72034e2fb26d4ede05071ad97b03c3474"))
+    print(STM_STM_STM(""))
+    print(STM_STM_STM("537573637273976a2b1451201fc920205fe0e0a0e060a0c237f663e24a5960503de3ec"))
+    print(STM_STM_STM("2020202020e0df6060201f20df20e0e09fe0a0a060e0a0a05fa0170944676c4a55634ad760afe4dfafabdb23"))
+    os.exit()
+  end
+  
+end
+
+S()
