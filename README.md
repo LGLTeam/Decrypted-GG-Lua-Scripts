@@ -1,4 +1,4 @@
-#Decrypted GG Lua Script
+# Decrypted GG Lua Script
 
 Collections of decrypted GameGuardian scripts. For educational purposes only
 
